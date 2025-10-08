@@ -1,5 +1,0 @@
-title: My VPN Blog
-baseurl: "" # 如果仓库直接作为 GitHub Pages 根目录
-url: "https://github.com/cn-vpn/tizi"
-plugins:
-  - jekyll-sitemap
