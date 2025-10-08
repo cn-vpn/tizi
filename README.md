@@ -84,7 +84,6 @@ A：Clash 更注重「多协议聚合」与「规则分流」，V2Ray 则更灵�
 
 - [V2Ray 官方项目](https://github.com/v2fly/v2ray-core)  
 - [Clash.Meta 核心](https://github.com/MetaCubeX/Clash.Meta)  
-- [科学上网客户端教程汇总（博客）](https://你的站点链接)
 
 ---
 
